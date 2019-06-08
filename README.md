@@ -1,8 +1,4 @@
 # uMario_Jakowski
-
-Great Mario Bros clone! I am going to attempt to replace all of the propriety
-assets with FOSS assets.
-
 uMario C++/SDL2 Game by Łukasz Jakowski
 
 Author: Łukasz Jakowski
@@ -34,6 +30,10 @@ FreeBSD:
 OS X (brew):
 
     $ brew install cmake sdl2 sdl2_image sdl2_mixer
+    
+Ubuntu:
+
+    $ sudo apt-get install cmake libsdl2-dev libsdl2-image-dev libsdl2-mixer-dev
 
 ## Building and running
 
