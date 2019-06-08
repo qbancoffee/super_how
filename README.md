@@ -1,3 +1,6 @@
+
+# Slowly creating/finding assets to replace the Nintendo assets.
+
 # uMario_Jakowski
 uMario C++/SDL2 Game by Łukasz Jakowski
 
