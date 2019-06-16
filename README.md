@@ -49,3 +49,7 @@ Ubuntu:
     $ cmake ..
     $ make
     $ ./uMario
+
+## Replaced assets
+
+- levelend.wav replaced with "Danish Mega Pony 2a03 OST [1].ogg"  https://opengameart.org/content/danish-mega-pony-2a03-ost
