@@ -425,7 +425,7 @@ void Map::DrawMinions(SDL_Renderer* rR) {
 }
 
 void Map::DrawGameLayout(SDL_Renderer* rR) {
-	CCFG::getText()->Draw(rR, "MARIO", 54, 16);
+	CCFG::getText()->Draw(rR, "H.O.W.", 54, 16);
 
 	if(oPlayer->getScore() < 100) {
 		CCFG::getText()->Draw(rR, "00000" + std::to_string(oPlayer->getScore()), 54, 32);
@@ -439,7 +439,7 @@ void Map::DrawGameLayout(SDL_Renderer* rR) {
 		CCFG::getText()->Draw(rR, std::to_string(oPlayer->getScore()), 54, 32);
 	}
 
-	CCFG::getText()->Draw(rR, "WORLD", 462, 16);
+	CCFG::getText()->Draw(rR, "EARTH", 462, 16);
 	CCFG::getText()->Draw(rR, getLevelName(), 480, 32);
 
 	if(iLevelType != 1) {

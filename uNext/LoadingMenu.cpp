@@ -37,7 +37,7 @@ void LoadingMenu::Update() {
 void LoadingMenu::Draw(SDL_Renderer* rR) {
 	if(loadingType) {
 		CCore::getMap()->DrawGameLayout(rR);
-		CCFG::getText()->Draw(rR, "WORLD", 320, 144);
+		CCFG::getText()->Draw(rR, "EARTH", 320, 144);
 		CCFG::getText()->Draw(rR, CCore::getMap()->getLevelName(), 416, 144);
 
 		CCore::getMap()->getPlayer()->getMarioSprite()->getTexture()->Draw(rR, 342, 210 - CCore::getMap()->getPlayer()->getHitBoxY()/2);

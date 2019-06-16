@@ -54,7 +54,7 @@ void MainMenu::Draw(SDL_Renderer* rR) {
 		rSelectWorld.h += 2;
 		rSelectWorld.w += 2;
 
-		CCFG::getText()->Draw(rR, "SELECT WORLD", rSelectWorld.x + rSelectWorld.w/2 - CCFG::getText()->getTextWidth("SELECT WORLD")/2, rSelectWorld.y + 16, 16, 255, 255, 255);
+		CCFG::getText()->Draw(rR, "SELECT EARTH", rSelectWorld.x + rSelectWorld.w/2 - CCFG::getText()->getTextWidth("SELECT EARTH")/2, rSelectWorld.y + 16, 16, 255, 255, 255);
 
 		for(int i = 0, extraX = 0; i < 8; i++) {
 			if(i == activeWorldID) {
