@@ -49,3 +49,8 @@ Ubuntu:
     $ cmake ..
     $ make
     $ ./uMario
+
+## Replaced assets
+
+- levelend.wav replaced with "Danish Mega Pony 2a03 OST [1].ogg"  https://opengameart.org/content/danish-mega-pony-2a03-ost
+- overworld.wav replaced with "Juhani Junkala [Chiptune Adventures] 2. Stage2.wav" https://opengameart.org/content/4-chiptunes-adventure
