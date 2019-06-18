@@ -53,4 +53,5 @@ Ubuntu:
 ## Replaced assets
 
 - levelend.wav replaced with "Danish Mega Pony 2a03 OST [1].ogg"  https://opengameart.org/content/danish-mega-pony-2a03-ost
-- overworld.wav replaced with "Juhani Junkala [Chiptune Adventures] 2. Stage2.wav" https://opengameart.org/content/4-chiptunes-adventure
+- overworld.wav & overworld-fast.wav, replaced with "Juhani Junkala [Chiptune Adventures] 2. Stage2.wav" https://opengameart.org/content/4-chiptunes-adventurehttps://opengameart.org/content/cpu-showdown
+-lowtime.wav replaced with 2 seconds from "CPU Showdown.mp3" 
