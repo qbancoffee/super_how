@@ -59,5 +59,6 @@ Music/sound
 
 Images
 - fireball_*.bmp replaced with "expl_03_0004.png" https://opengameart.org/content/explosions-0
+- firework(0,1,2).bmp replaced with "expl_01_000(4,6,8).png" https://opengameart.org/content/explosions-0
 
 
